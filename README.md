@@ -1,2 +1,6 @@
 # 11.12.2017
-First 
+Git Hub SVN adlandırılan bir sistemdir. Bu sistem SubVersioN-aşağı versiya sözünün qısaldılmış versiyasıdır. 
+Bir proje üzərində eyni anda bir neçə şəxsin rahat işləyəcəyi en unikal bir sistemdir. Bütün edilmuş düzəlişlər və düzəlişlərə
+qədər yazılmış kodlar sistemdə arxiv formada saxlanılması bu platformanın üstünlüklərindən biri sayılır.
+Hər hansi bir projeni rahat şəkildə kompyüterinizı yükləyib istədiyiniz düzəlişləri edə və ya platforma üzərindən
+düzəlişləri edə bilərsiniz. Eyni zamanda digər ikinci bir şəxsə projeni rahat şəkildə aydınlada biləcəyiniz sistemdir
